@@ -1,8 +1,11 @@
-package net.rocketstorm.interactivestory;
+package net.rocketstorm.interactivestory.ui;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import net.rocketstorm.interactivestory.R;
+import net.rocketstorm.interactivestory.model.Page;
 
 public class StoryActivity extends AppCompatActivity {
 
